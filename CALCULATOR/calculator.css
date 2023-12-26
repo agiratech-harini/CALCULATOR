@@ -20,11 +20,16 @@ button{
     filter: brightness();
 
 }
+button:hover{
+    background-color: blanchedalmond;
+}
 .dis{
     text-align: right;
+    height: 50px;
+    width: 250px;
 }
 body{
-    background-color: rgb(251, 255, 196);
+    background-color: rgb(255, 255, 251);
 }
 h1{
     display:flex;
